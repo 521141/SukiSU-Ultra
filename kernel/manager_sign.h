@@ -24,9 +24,9 @@
 	"484fcba6e6c43b1fb09700633bf2fb4758f13cb0b2f4457b80d075084b26c588"
 
 // ShirkNeko/KernelSU
-#define EXPECTED_SIZE_SHIRKNEKO 0x35c
+#define EXPECTED_SIZE_SHIRKNEKO 0x17f
 #define EXPECTED_HASH_SHIRKNEKO                                                \
-	"947ae944f3de4ed4c21a7e4f7953ecf351bfa2b36239da37a34111ad29993eef"
+	"3f271d166479fad0b786952d0e366d1cfd9edff9d58951c7cc15dd4e342de0f9"
 
 // Neko/KernelSU
 #define EXPECTED_SIZE_NEKO 0x29c
